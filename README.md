@@ -7,11 +7,9 @@
 
 ## 目前存放文件包含
 
-```javascript
-`
+```
 |---image (图片)
   |---wallpaper-pc(电脑壁纸)
-`
 ```
 
 
